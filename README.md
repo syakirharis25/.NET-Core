@@ -29,6 +29,9 @@ Microsoft official website : https://www.microsoft.com <br />
 **_.NET Core related projects_** <br />
 .NET Core Home in GitHub : https://github.com/dotnet/core <br />
 
+**_.NET Core related documentation by Microsoft_** <br />
+.NET Standard : https://docs.microsoft.com/en-us/dotnet/standard/net-standard <br />
+
 **_.NET Core questions and answers by Stack Overflow_** <br />
 [ draft ]  <br />
 
