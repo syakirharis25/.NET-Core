@@ -42,7 +42,7 @@ mc:Ignorable Attribute : https://docs.microsoft.com/en-us/dotnet/framework/wpf/a
 WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/winui3/ <br />
 
 **_.NET Core questions and answers by Stack Overflow_** <br />
-[ draft ]  <br />
+Use WPF with .NET Standard Library by Stack Overflow : https://stackoverflow.com/questions/57529594/use-wpf-with-net-standard-library <br />
 
 **_.NET related articles_** <br />
 What’s The Difference Between .NET Core Vs .NET Framework by Amar InfoTech : https://www.amarinfotech.com/difference-between-net-core-2-0-vs-net-framework.html <br />
