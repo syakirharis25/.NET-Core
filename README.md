@@ -46,6 +46,7 @@ Use WPF with .NET Standard Library by Stack Overflow : https://stackoverflow.com
 
 **_.NET related articles_** <br />
 What’s The Difference Between .NET Core Vs .NET Framework by Amar InfoTech : https://www.amarinfotech.com/difference-between-net-core-2-0-vs-net-framework.html <br />
+dotnet build failed #8071 by GitHub : https://github.com/dotnet/runtime/issues/8071 <br />
 
 <a name="developers"></a>
 ## 3. .NET Core developers.
