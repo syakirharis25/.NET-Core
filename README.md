@@ -36,6 +36,7 @@ WinUI : https://microsoft.github.io/microsoft-ui-xaml/ <br />
 Generics in .NET https://docs.microsoft.com/en-us/dotnet/standard/generics/ <br />
 Using threads and threading : https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading <br />
 .NET class library overview : https://docs.microsoft.com/en-us/dotnet/standard/class-library-overview <br />
+mc:Ignorable Attribute : https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/mc-ignorable-attribute <br />
 
 **_.NET Core related documentation by Microsoft_** <br />
 WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/winui3/ <br />
