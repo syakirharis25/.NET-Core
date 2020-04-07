@@ -31,8 +31,13 @@ Microsoft official website : https://www.microsoft.com <br />
 .NET Source Code Integration by Mono : https://www.mono-project.com/docs/about-mono/dotnet-integration/ <br />
 WinUI : https://microsoft.github.io/microsoft-ui-xaml/ <br />
 
-**_.NET Core related documentation by Microsoft_** <br />
+**_.NET Core documentation by Microsoft_** <br />
 .NET Standard : https://docs.microsoft.com/en-us/dotnet/standard/net-standard <br />
+Generics in .NET https://docs.microsoft.com/en-us/dotnet/standard/generics/ <br />
+Using threads and threading : https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading <br />
+.NET class library overview : https://docs.microsoft.com/en-us/dotnet/standard/class-library-overview <br />
+
+**_.NET Core related documentation by Microsoft_** <br />
 WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/winui3/ <br />
 
 **_.NET Core questions and answers by Stack Overflow_** <br />
