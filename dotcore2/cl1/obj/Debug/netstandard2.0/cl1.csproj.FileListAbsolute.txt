@@ -1,0 +1,9 @@
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\bin\Debug\netstandard2.0\cl1.deps.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\bin\Debug\netstandard2.0\cl1.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\bin\Debug\netstandard2.0\cl1.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cl1\obj\Debug\netstandard2.0\cl1.pdb

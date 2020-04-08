@@ -1,0 +1,13 @@
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.exe
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.deps.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotnetcore1\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.genruntimeconfig.cache

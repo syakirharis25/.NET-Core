@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvs0Z6r4xEfgcmotGTBlknCU7idAibFTt+Huj9M4gw9rC7wH9HpfbVmBpX2qPQLpM4HV+zmCg3+v5tX/Q9eVsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syaki\\OneDrive\\Desktop\\.NET-Core\\dotcore2\\cl4\\cl4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syaki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\syaki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

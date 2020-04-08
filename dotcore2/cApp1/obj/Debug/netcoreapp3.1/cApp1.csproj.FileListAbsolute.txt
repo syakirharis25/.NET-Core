@@ -1,0 +1,16 @@
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.exe
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.deps.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cApp1.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cl1.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\bin\Debug\netcoreapp3.1\cl1.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.csproj.CopyComplete
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.dll
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.pdb
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\dotcore2\cApp1\obj\Debug\netcoreapp3.1\cApp1.genruntimeconfig.cache

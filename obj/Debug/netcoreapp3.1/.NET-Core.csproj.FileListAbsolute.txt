@@ -1,0 +1,4 @@
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\obj\Debug\netcoreapp3.1\.NET-Core.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\obj\Debug\netcoreapp3.1\.NET-Core.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\obj\Debug\netcoreapp3.1\.NET-Core.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\.NET-Core\obj\Debug\netcoreapp3.1\.NET-Core.AssemblyInfo.cs
