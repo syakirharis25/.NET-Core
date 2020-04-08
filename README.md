@@ -25,21 +25,30 @@ As a CLI implementation of the foundational Standard Libraries, CoreFX shares a 
 Microsoft official website : https://www.microsoft.com <br />
 .NET official website : https://dotnet.microsoft.com <br />
 .NET official download page : https://dotnet.microsoft.com/download/dotnet-core <br />
+.NET Reference Source : https://referencesource.microsoft.com <br />
 
 **_.NET Core related projects_** <br />
 .NET Core Home in GitHub : https://github.com/dotnet/core <br />
 .NET Source Code Integration by Mono : https://www.mono-project.com/docs/about-mono/dotnet-integration/ <br />
 WinUI : https://microsoft.github.io/microsoft-ui-xaml/ <br />
 
-**_.NET Core related documentation by Microsoft_** <br />
+**_.NET Core documentation by Microsoft_** <br />
 .NET Standard : https://docs.microsoft.com/en-us/dotnet/standard/net-standard <br />
+Generics in .NET https://docs.microsoft.com/en-us/dotnet/standard/generics/ <br />
+Using threads and threading : https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading <br />
+.NET class library overview : https://docs.microsoft.com/en-us/dotnet/standard/class-library-overview <br />
+mc:Ignorable Attribute : https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/mc-ignorable-attribute <br />
+dotnet add reference : https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference <br />
+
+**_.NET Core related documentation by Microsoft_** <br />
 WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/winui3/ <br />
 
 **_.NET Core questions and answers by Stack Overflow_** <br />
-[ draft ]  <br />
+Use WPF with .NET Standard Library by Stack Overflow : https://stackoverflow.com/questions/57529594/use-wpf-with-net-standard-library <br />
 
 **_.NET related articles_** <br />
 What’s The Difference Between .NET Core Vs .NET Framework by Amar InfoTech : https://www.amarinfotech.com/difference-between-net-core-2-0-vs-net-framework.html <br />
+dotnet build failed #8071 by GitHub : https://github.com/dotnet/runtime/issues/8071 <br />
 
 <a name="developers"></a>
 ## 3. .NET Core developers.
