@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rz87iP0+JC3JYtKAGbJQfw2kp5coLsYEdBCHpKvYfzIzQiGcIADjVvnTb8k/fU/G/QA9BrHN9SXi6tXuUZcJHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syaki\\OneDrive\\Desktop\\.NET-Core\\webgentlePOC\\mySampleApplication\\mySampleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syaki\\.nuget\\packages\\bootstrap\\4.4.1\\bootstrap.4.4.1.nupkg.sha512",
+    "C:\\Users\\syaki\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\syaki\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
