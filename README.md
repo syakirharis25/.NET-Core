@@ -27,6 +27,7 @@ Microsoft official website : https://www.microsoft.com <br />
 .NET official download page : https://dotnet.microsoft.com/download/dotnet-core <br />
 .NET Reference Source : https://referencesource.microsoft.com <br />
 .NET Developer Community : https://dotnet.microsoft.com/platform/community <br />
+.NET Foundation Meetup : https://www.meetup.com/pro/dotnet/ <br />
 
 **_.NET Core related projects_** <br />
 .NET Core Home in GitHub : https://github.com/dotnet/core <br />
