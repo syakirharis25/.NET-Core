@@ -4,9 +4,8 @@ My works related to .NET Core computer software framework for Windows, Linux, an
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [.NET Core developers.](#developers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -52,13 +51,9 @@ Use WPF with .NET Standard Library by Stack Overflow : https://stackoverflow.com
 **_.NET related articles_** <br />
 What’s The Difference Between .NET Core Vs .NET Framework by Amar InfoTech : https://www.amarinfotech.com/difference-between-net-core-2-0-vs-net-framework.html <br />
 dotnet build failed #8071 by GitHub : https://github.com/dotnet/runtime/issues/8071 <br />
-
-<a name="developers"></a>
-## 3. .NET Core developers.
-[ draft ]
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/.NET-Core.git
@@ -68,7 +63,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 4. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
