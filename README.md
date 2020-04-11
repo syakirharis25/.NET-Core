@@ -28,6 +28,7 @@ Microsoft official website : https://www.microsoft.com <br />
 .NET Developer Community : https://dotnet.microsoft.com/platform/community <br />
 .NET Foundation Meetup : https://www.meetup.com/pro/dotnet/ <br />
 .NET Stack Overflow : https://stackoverflow.com/questions/tagged/.net?sort=frequent <br />
+.NET Architecture Guides : https://dotnet.microsoft.com/learn/dotnet/architecture-guides <br />
 
 **_.NET Core related projects_** <br />
 .NET Core Home in GitHub : https://github.com/dotnet/core <br />
