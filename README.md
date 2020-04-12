@@ -43,6 +43,7 @@ Using threads and threading : https://docs.microsoft.com/en-us/dotnet/standard/t
 mc:Ignorable Attribute : https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/mc-ignorable-attribute <br />
 dotnet add reference : https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference <br />
 Microsoft.AspNetCore.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting?view=aspnetcore-3.1 <br />
+Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection?view=dotnet-plat-ext-3.1 <br />
 
 **_.NET Core related documentation by Microsoft_** <br />
 WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/winui3/ <br />
