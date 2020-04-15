@@ -51,6 +51,7 @@ WinUI 3.0 Alpha (February 2020) : https://docs.microsoft.com/en-us/uwp/toolkits/
 
 **_.NET Core questions and answers by Stack Overflow_** <br />
 Use WPF with .NET Standard Library by Stack Overflow : https://stackoverflow.com/questions/57529594/use-wpf-with-net-standard-library <br />
+What is really a Principal in .NET? by Stack Overflow : https://stackoverflow.com/questions/28436332/what-is-really-a-principal-in-net <br />
 
 **_.NET related articles_** <br />
 What’s The Difference Between .NET Core Vs .NET Framework by Amar InfoTech : https://www.amarinfotech.com/difference-between-net-core-2-0-vs-net-framework.html <br />
